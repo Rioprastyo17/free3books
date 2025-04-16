@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Fontin+Sans:wght@400;600&display=swap');
+
+:root {
+  --primary-color: #0070f3; /* Warna biru untuk elemen penting */
+  --secondary-color: #8c52ff; /* Warna ungu untuk elemen tambahan */
+  --text-color: #333333; /* Warna teks utama */
+  --background-color: #ffffff; /* Warna latar belakang */
+  --border-color: #e5e7eb; /* Warna border */
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Fontin Sans', sans-serif;
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
