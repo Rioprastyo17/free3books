@@ -1,4 +1,3 @@
-Tentu, ini adalah contoh `README.md` yang dibuat berdasarkan file-file yang Anda berikan:
 
 # Free3Books
 
